@@ -18,8 +18,9 @@ You will see a table of timings (in milliseconds) comparing the deterministic an
 
 Running the Data Structures Module
 In the same directory, run:
+   ```bash
+   python3 data_structures.py
 
-python3 data_structures.py
 You will see the preorder traversal of a sample rooted tree printed to the console:
 
 Summary of Findings
